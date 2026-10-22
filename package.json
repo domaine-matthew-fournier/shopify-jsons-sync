@@ -17,6 +17,10 @@
     "type": "git",
     "url": "git+https://github.com/actions/typescript-action.git"
   },
+  "engines": {
+    "node": "^22.23.4 || ^24.22.1 || >=26.12.1",
+    "npm": ">=9.5"
+  },
   "keywords": [
     "actions",
     "node",
